@@ -57,12 +57,12 @@ An interactive OpenGL application that allows users to manipulate and transform 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/2d-objects-transformations.git
+git clone https://github.com/Olegani4/2d-objects-transformations.git
 ```
 
 2. Install required packages:
 ```bash
-pip install pygame
+pip install pygame PyOpenGL numpy scipy
 ```
 
 ### Running the Application
