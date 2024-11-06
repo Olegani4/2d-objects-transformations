@@ -48,7 +48,7 @@ An interactive OpenGL application that allows users to manipulate and transform 
 ## Technical Details
 
 ### Dependencies
-- Python 3.x
+- Python 3.12
 - PyGame
 - OpenGL
 - NumPy
